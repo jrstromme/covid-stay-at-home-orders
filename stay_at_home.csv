@@ -1,203 +1,203 @@
 state,postalcode,statefips,county,countyfips,city,effectivedate
-Alabama,AL,1,NA,NA,,2020-04-05
-Alabama,AL,1,,,Birmingham,2020-03-24
-Alaska,AK,2,NA,NA,,2020-03-29
-Alaska,AK,2,,,Anchorage,2020-03-22
-Arizona,AZ,4,NA,NA,,2020-04-01
+Alabama,AL,1,NA,NA,,04/05/2020
+Alabama,AL,1,,,Birmingham,03/24/2020
+Alaska,AK,2,NA,NA,,03/29/2020
+Alaska,AK,2,,,Anchorage,03/22/2020
+Arizona,AZ,4,NA,NA,,04/01/2020
 Arkansas,AR,5,NA,NA,,
-California,CA,6,NA,NA,,2020-03-19
-Colorado,CO,8,NA,NA,,2020-03-26
-Colorado,CO,8,,,Boulder,2020-03-25
-Colorado,CO,8,,,Denver,2020-03-25
-Colorado,CO,8,Adams County,8001,,2020-03-26
-Colorado,CO,8,Arapahoe County,8005,,2020-03-26
-Colorado,CO,8,Archuleta County,8007,,2020-03-23
-Colorado,CO,8,Douglas County,8035,,2020-03-26
-Colorado,CO,8,Jefferson County,8059,,2020-03-26
-Colorado,CO,8,La Plata County,8067,,2020-03-23
-Colorado,CO,8,Pitkin County,8097,,2020-03-23
-Connecticut,CT,9,NA,NA,,2020-03-24
-Delaware,DE,10,NA,NA,,2020-03-24
-District of Columbia,DC,11,NA,NA,,2020-04-01
-Florida,FL,12,NA,NA,,2020-04-03
-Florida,FL,12,,,Miami,2020-03-25
-Florida,FL,12,,,Miami Beach,2020-03-24
-Florida,FL,12,,,Palm Coast,2020-03-22
-Florida,FL,12,Alachua County,12001,,2020-03-24
-Florida,FL,12,Broward County,12011,,2020-03-27
-Florida,FL,12,Hillsborough County,12057,,2020-03-28
-Florida,FL,12,Leon County,12073,,2020-03-26
-Florida,FL,12,Miami-Dade County,12086,,2020-03-25
-Florida,FL,12,Monroe County,12087,,2020-03-30
-Florida,FL,12,Orange County,12095,,2020-03-27
-Florida,FL,12,Osceola County,12097,,2020-03-27
-Florida,FL,12,Palm Beach County,12099,,2020-03-30
-Florida,FL,12,Pinellas County,12103,,2020-03-26
-Georgia,GA,13,NA,NA,,2020-04-04
-Georgia,GA,13,,,Atlanta,2020-03-24
-Georgia,GA,13,,,Blakely,2020-03-24
-Georgia,GA,13,,,Carrollton,2020-03-25
-Georgia,GA,13,,,Savannah,2020-03-25
-Georgia,GA,13,Athens-Clarke County,13059,,2020-03-20
-Georgia,GA,13,Dougherty County,13095,,2020-03-21
-Hawaii,HI,15,NA,NA,,2020-03-25
-Idaho,ID,16,NA,NA,,2020-03-25
-Idaho,ID,16,Blaine County,16013,,2020-03-20
-Illinois,IL,17,NA,NA,,2020-03-22
-Indiana,IN,18,NA,NA,,2020-03-25
+California,CA,6,NA,NA,,03/19/2020
+Colorado,CO,8,NA,NA,,03/26/2020
+Colorado,CO,8,,,Boulder,03/25/2020
+Colorado,CO,8,,,Denver,03/25/2020
+Colorado,CO,8,Adams County,8001,,03/26/2020
+Colorado,CO,8,Arapahoe County,8005,,03/26/2020
+Colorado,CO,8,Archuleta County,8007,,03/23/2020
+Colorado,CO,8,Douglas County,8035,,03/26/2020
+Colorado,CO,8,Jefferson County,8059,,03/26/2020
+Colorado,CO,8,La Plata County,8067,,03/23/2020
+Colorado,CO,8,Pitkin County,8097,,03/23/2020
+Connecticut,CT,9,NA,NA,,03/24/2020
+Delaware,DE,10,NA,NA,,03/24/2020
+District of Columbia,DC,11,NA,NA,,04/01/2020
+Florida,FL,12,NA,NA,,04/03/2020
+Florida,FL,12,,,Miami,03/25/2020
+Florida,FL,12,,,Miami Beach,03/24/2020
+Florida,FL,12,,,Palm Coast,03/22/2020
+Florida,FL,12,Alachua County,12001,,03/24/2020
+Florida,FL,12,Broward County,12011,,03/27/2020
+Florida,FL,12,Hillsborough County,12057,,03/28/2020
+Florida,FL,12,Leon County,12073,,03/26/2020
+Florida,FL,12,Miami-Dade County,12086,,03/25/2020
+Florida,FL,12,Monroe County,12087,,03/30/2020
+Florida,FL,12,Orange County,12095,,03/27/2020
+Florida,FL,12,Osceola County,12097,,03/27/2020
+Florida,FL,12,Palm Beach County,12099,,03/30/2020
+Florida,FL,12,Pinellas County,12103,,03/26/2020
+Georgia,GA,13,NA,NA,,04/04/2020
+Georgia,GA,13,,,Atlanta,03/24/2020
+Georgia,GA,13,,,Blakely,03/24/2020
+Georgia,GA,13,,,Carrollton,03/25/2020
+Georgia,GA,13,,,Savannah,03/25/2020
+Georgia,GA,13,Athens-Clarke County,13059,,03/20/2020
+Georgia,GA,13,Dougherty County,13095,,03/21/2020
+Hawaii,HI,15,NA,NA,,03/25/2020
+Idaho,ID,16,NA,NA,,03/25/2020
+Idaho,ID,16,Blaine County,16013,,03/20/2020
+Illinois,IL,17,NA,NA,,03/22/2020
+Indiana,IN,18,NA,NA,,03/25/2020
 Iowa,IA,19,NA,NA,,
-Kansas,KS,20,NA,NA,,2020-03-30
-Kansas,KS,20,Doniphan County,20043,,2020-03-26
-Kansas,KS,20,Douglas County,20045,,2020-03-24
-Kansas,KS,20,Johnson County,20091,,2020-03-24
-Kansas,KS,20,Leavenworth County,20103,,2020-03-24
-Kansas,KS,20,Miami County,20121,,2020-03-25
-Kansas,KS,20,Sedgwick County,20173,,2020-03-25
-Kansas,KS,20,Sumner County,20191,,2020-03-27
-Kansas,KS,20,Wyandotte County,20209,,2020-03-24
-Kentucky,KY,21,NA,NA,,2020-03-27
-Louisiana,LA,22,NA,NA,,2020-03-24
-Maine,ME,23,NA,NA,,2020-04-02
-Maine,ME,23,,,Portland,2020-03-26
-Maryland,MD,24,NA,NA,,2020-03-31
-Massachusetts,MA,25,NA,NA,,2020-03-24
-Michigan,MI,26,NA,NA,,2020-03-24
-Minnesota,MN,27,NA,NA,,2020-03-28
-Mississippi,MS,28,NA,NA,,2020-04-04
-Mississippi,MS,28,,,Oxford,2020-03-22
-Missouri,MO,29,NA,NA,,2020-04-06
-Missouri,MO,29,,,Kansas City,2020-03-24
-Missouri,MO,29,,,St. Joseph,2020-03-24
-Missouri,MO,29,,,St. Louis,2020-03-24
-Missouri,MO,29,Boone County,29019,,2020-03-25
-Missouri,MO,29,Cass County,29037,,2020-03-24
-Missouri,MO,29,Clay County,29047,,2020-03-24
-Missouri,MO,29,Cole County,29051,,2020-03-23
-Missouri,MO,29,Greene County,29077,,2020-03-26
-Missouri,MO,29,Jackson County,29095,,2020-03-24
-Missouri,MO,29,Jefferson County,29099,,2020-03-24
-Missouri,MO,29,Platte County,29165,,2020-03-24
-Missouri,MO,29,Randolph County,29175,,2020-03-25
-Missouri,MO,29,Ray County,29177,,2020-03-25
-Missouri,MO,29,St. Louis County,29189,,2020-03-23
-Montana,MT,30,NA,NA,,2020-03-28
+Kansas,KS,20,NA,NA,,03/30/2020
+Kansas,KS,20,Doniphan County,20043,,03/26/2020
+Kansas,KS,20,Douglas County,20045,,03/24/2020
+Kansas,KS,20,Johnson County,20091,,03/24/2020
+Kansas,KS,20,Leavenworth County,20103,,03/24/2020
+Kansas,KS,20,Miami County,20121,,03/25/2020
+Kansas,KS,20,Sedgwick County,20173,,03/25/2020
+Kansas,KS,20,Sumner County,20191,,03/27/2020
+Kansas,KS,20,Wyandotte County,20209,,03/24/2020
+Kentucky,KY,21,NA,NA,,03/27/2020
+Louisiana,LA,22,NA,NA,,03/24/2020
+Maine,ME,23,NA,NA,,04/02/2020
+Maine,ME,23,,,Portland,03/26/2020
+Maryland,MD,24,NA,NA,,03/31/2020
+Massachusetts,MA,25,NA,NA,,03/24/2020
+Michigan,MI,26,NA,NA,,03/24/2020
+Minnesota,MN,27,NA,NA,,03/28/2020
+Mississippi,MS,28,NA,NA,,04/04/2020
+Mississippi,MS,28,,,Oxford,03/22/2020
+Missouri,MO,29,NA,NA,,04/06/2020
+Missouri,MO,29,,,Kansas City,03/24/2020
+Missouri,MO,29,,,St. Joseph,03/24/2020
+Missouri,MO,29,,,St. Louis,03/24/2020
+Missouri,MO,29,Boone County,29019,,03/25/2020
+Missouri,MO,29,Cass County,29037,,03/24/2020
+Missouri,MO,29,Clay County,29047,,03/24/2020
+Missouri,MO,29,Cole County,29051,,03/23/2020
+Missouri,MO,29,Greene County,29077,,03/26/2020
+Missouri,MO,29,Jackson County,29095,,03/24/2020
+Missouri,MO,29,Jefferson County,29099,,03/24/2020
+Missouri,MO,29,Platte County,29165,,03/24/2020
+Missouri,MO,29,Randolph County,29175,,03/25/2020
+Missouri,MO,29,Ray County,29177,,03/25/2020
+Missouri,MO,29,St. Louis County,29189,,03/23/2020
+Montana,MT,30,NA,NA,,03/28/2020
 Nebraska,NE,31,NA,NA,,
-Nevada,NV,32,NA,NA,,2020-04-01
-New Hampshire,NH,33,NA,NA,,2020-03-28
-New Jersey,NJ,34,NA,NA,,2020-03-22
-New Mexico,NM,35,NA,NA,,2020-03-24
-New York,NY,36,NA,NA,,2020-03-23
-North Carolina,NC,37,NA,NA,,2020-03-31
-North Carolina,NC,37,,,Clemmons,2020-03-28
-North Carolina,NC,37,,,Durham,2020-03-27
-North Carolina,NC,37,,,Winston-Salem,2020-03-28
-North Carolina,NC,37,Buncombe County,37021,,2020-03-27
-North Carolina,NC,37,Cabarrus County,37025,,2020-03-27
-North Carolina,NC,37,Gaston County,37071,,2020-03-28
-North Carolina,NC,37,Guilford County,37081,,2020-03-28
-North Carolina,NC,37,Haywood County,37087,,2020-03-27
-North Carolina,NC,37,Madison County,37115,,2020-03-23
-North Carolina,NC,37,Mecklenburg County,37119,,2020-03-26
-North Carolina,NC,37,Orange County,37135,,2020-03-28
-North Carolina,NC,37,Pitt County,37147,,2020-03-26
-North Carolina,NC,37,Wake County,37183,,2020-03-28
+Nevada,NV,32,NA,NA,,04/01/2020
+New Hampshire,NH,33,NA,NA,,03/28/2020
+New Jersey,NJ,34,NA,NA,,03/22/2020
+New Mexico,NM,35,NA,NA,,03/24/2020
+New York,NY,36,NA,NA,,03/23/2020
+North Carolina,NC,37,NA,NA,,03/31/2020
+North Carolina,NC,37,,,Clemmons,03/28/2020
+North Carolina,NC,37,,,Durham,03/27/2020
+North Carolina,NC,37,,,Winston-Salem,03/28/2020
+North Carolina,NC,37,Buncombe County,37021,,03/27/2020
+North Carolina,NC,37,Cabarrus County,37025,,03/27/2020
+North Carolina,NC,37,Gaston County,37071,,03/28/2020
+North Carolina,NC,37,Guilford County,37081,,03/28/2020
+North Carolina,NC,37,Haywood County,37087,,03/27/2020
+North Carolina,NC,37,Madison County,37115,,03/23/2020
+North Carolina,NC,37,Mecklenburg County,37119,,03/26/2020
+North Carolina,NC,37,Orange County,37135,,03/28/2020
+North Carolina,NC,37,Pitt County,37147,,03/26/2020
+North Carolina,NC,37,Wake County,37183,,03/28/2020
 North Dakota,ND,38,NA,NA,,
-Ohio,OH,39,NA,NA,,2020-03-24
+Ohio,OH,39,NA,NA,,03/24/2020
 Oklahoma,OK,40,NA,NA,,
-Oklahoma,OK,40,,,Claremore,2020-04-06
-Oklahoma,OK,40,,,Edmond,2020-03-31
-Oklahoma,OK,40,,,Moore,2020-04-05
-Oklahoma,OK,40,,,Norman,2020-03-26
-Oklahoma,OK,40,,,Oklahoma City,2020-03-29
-Oklahoma,OK,40,,,Sallisaw,2020-04-05
-Oklahoma,OK,40,,,Stillwater,2020-03-31
-Oklahoma,OK,40,,,Tulsa,2020-03-29
-Oregon,OR,41,NA,NA,,2020-03-23
-Pennsylvania,PA,42,NA,NA,,2020-04-02
-Pennsylvania,PA,42,Allegheny County,42003,,2020-03-24
-Pennsylvania,PA,42,Beaver County,42007,,2020-03-29
-Pennsylvania,PA,42,Berks County,42011,,2020-03-28
-Pennsylvania,PA,42,Bucks County,42017,,2020-03-24
-Pennsylvania,PA,42,Butler County,42019,,2020-03-28
-Pennsylvania,PA,42,Carbon County,42025,,2020-03-31
-Pennsylvania,PA,42,Centre County,42027,,2020-03-29
-Pennsylvania,PA,42,Chester County,42029,,2020-03-24
-Pennsylvania,PA,42,Cumberland County,42041,,2020-03-31
-Pennsylvania,PA,42,Dauphin County,42043,,2020-03-31
-Pennsylvania,PA,42,Delaware County,42045,,2020-03-24
-Pennsylvania,PA,42,Erie County,42049,,2020-03-25
-Pennsylvania,PA,42,Lackawanna County,42069,,2020-03-28
-Pennsylvania,PA,42,Lancaster County,42071,,2020-03-28
-Pennsylvania,PA,42,Lehigh County,42077,,2020-03-26
-Pennsylvania,PA,42,Luzerne County,42079,,2020-03-28
-Pennsylvania,PA,42,Monroe County,42089,,2020-03-24
-Pennsylvania,PA,42,Montgomery County,42091,,2020-03-24
-Pennsylvania,PA,42,Northampton County,42095,,2020-03-26
-Pennsylvania,PA,42,Philadelphia County,42101,,2020-03-24
-Pennsylvania,PA,42,Pike County,42103,,2020-03-28
-Pennsylvania,PA,42,Schuylkill County,42107,,2020-03-31
-Pennsylvania,PA,42,Washington County,42125,,2020-03-29
-Pennsylvania,PA,42,Wayne County,42127,,2020-03-28
-Pennsylvania,PA,42,Westmoreland County,42129,,2020-03-28
-Pennsylvania,PA,42,York County,42133,,2020-03-28
-Rhode Island,RI,44,NA,NA,,2020-03-28
-South Carolina,SC,45,NA,NA,,2020-04-08
-South Carolina,SC,45,,,Charleston,2020-03-26
-South Carolina,SC,45,,,Columbia,2020-03-29
+Oklahoma,OK,40,,,Claremore,04/06/2020
+Oklahoma,OK,40,,,Edmond,03/31/2020
+Oklahoma,OK,40,,,Moore,04/05/2020
+Oklahoma,OK,40,,,Norman,03/26/2020
+Oklahoma,OK,40,,,Oklahoma City,03/29/2020
+Oklahoma,OK,40,,,Sallisaw,04/05/2020
+Oklahoma,OK,40,,,Stillwater,03/31/2020
+Oklahoma,OK,40,,,Tulsa,03/29/2020
+Oregon,OR,41,NA,NA,,03/23/2020
+Pennsylvania,PA,42,NA,NA,,04/02/2020
+Pennsylvania,PA,42,Allegheny County,42003,,03/24/2020
+Pennsylvania,PA,42,Beaver County,42007,,03/29/2020
+Pennsylvania,PA,42,Berks County,42011,,03/28/2020
+Pennsylvania,PA,42,Bucks County,42017,,03/24/2020
+Pennsylvania,PA,42,Butler County,42019,,03/28/2020
+Pennsylvania,PA,42,Carbon County,42025,,03/31/2020
+Pennsylvania,PA,42,Centre County,42027,,03/29/2020
+Pennsylvania,PA,42,Chester County,42029,,03/24/2020
+Pennsylvania,PA,42,Cumberland County,42041,,03/31/2020
+Pennsylvania,PA,42,Dauphin County,42043,,03/31/2020
+Pennsylvania,PA,42,Delaware County,42045,,03/24/2020
+Pennsylvania,PA,42,Erie County,42049,,03/25/2020
+Pennsylvania,PA,42,Lackawanna County,42069,,03/28/2020
+Pennsylvania,PA,42,Lancaster County,42071,,03/28/2020
+Pennsylvania,PA,42,Lehigh County,42077,,03/26/2020
+Pennsylvania,PA,42,Luzerne County,42079,,03/28/2020
+Pennsylvania,PA,42,Monroe County,42089,,03/24/2020
+Pennsylvania,PA,42,Montgomery County,42091,,03/24/2020
+Pennsylvania,PA,42,Northampton County,42095,,03/26/2020
+Pennsylvania,PA,42,Philadelphia County,42101,,03/24/2020
+Pennsylvania,PA,42,Pike County,42103,,03/28/2020
+Pennsylvania,PA,42,Schuylkill County,42107,,03/31/2020
+Pennsylvania,PA,42,Washington County,42125,,03/29/2020
+Pennsylvania,PA,42,Wayne County,42127,,03/28/2020
+Pennsylvania,PA,42,Westmoreland County,42129,,03/28/2020
+Pennsylvania,PA,42,York County,42133,,03/28/2020
+Rhode Island,RI,44,NA,NA,,03/28/2020
+South Carolina,SC,45,NA,NA,,04/08/2020
+South Carolina,SC,45,,,Charleston,03/26/2020
+South Carolina,SC,45,,,Columbia,03/29/2020
 South Dakota,SD,46,NA,NA,,
-Tennessee,TN,47,NA,NA,,2020-04-01
-Tennessee,TN,47,,,Franklin,2020-03-25
-Tennessee,TN,47,,,Memphis,2020-03-25
-Tennessee,TN,47,Davidson County,47037,,2020-03-23
-Tennessee,TN,47,Knox County,47093,,2020-03-24
-Tennessee,TN,47,Shelby County,47157,,2020-03-24
-Texas,TX,48,NA,NA,,2020-04-02
-Texas,TX,48,,,Austin,2020-03-25
-Texas,TX,48,,,Amarillo,2020-03-31
-Texas,TX,48,,,Lubbock,2020-03-30
-Texas,TX,48,Bell County,48027,,2020-03-24
-Texas,TX,48,Bexar County,48029,,2020-03-25
-Texas,TX,48,Brazoria County,48039,,2020-03-27
-Texas,TX,48,Cameron County,48061,,2020-03-25
-Texas,TX,48,Chambers County,48071,,2020-03-25
-Texas,TX,48,Collin County,48085,,2020-03-24
-Texas,TX,48,Dallas County,48113,,2020-03-24
-Texas,TX,48,Denton County,48121,,2020-03-26
-Texas,TX,48,El Paso County,48141,,2020-03-25
-Texas,TX,48,Ellis County,48139,,2020-03-26
-Texas,TX,48,Fort Bend County,48157,,2020-03-25
-Texas,TX,48,Galveston County,48167,,2020-03-25
-Texas,TX,48,Gregg County,48183,,2020-03-27
-Texas,TX,48,Harris County,48201,,2020-03-25
-Texas,TX,48,Harrison County,48203,,2020-04-01
-Texas,TX,48,Hays County,48209,,2020-03-27
-Texas,TX,48,Hidalgo County,48215,,2020-03-27
-Texas,TX,48,Hunt County,48231,,2020-03-25
-Texas,TX,48,Kaufman County,48257,,2020-03-26
-Texas,TX,48,Liberty County,48291,,2020-03-25
-Texas,TX,48,McLennan County,48309,,2020-03-24
-Texas,TX,48,Nacogdoches,48347,,2020-03-30
-Texas,TX,48,Nueces County,48355,,2020-03-27
-Texas,TX,48,Polk County,48373,,2020-03-28
-Texas,TX,48,Robertson County,48395,,2020-03-26
-Texas,TX,48,Rockwall County,48397,,2020-03-25
-Texas,TX,48,San Jacinto County,48407,,2020-03-25
-Texas,TX,48,Scurry County,48415,,2020-03-28
-Texas,TX,48,Smith County,48423,,2020-03-28
-Texas,TX,48,Starr County,48427,,2020-03-25
-Texas,TX,48,Tarrant County,48439,,2020-03-25
-Texas,TX,48,Travis County,48453,,2020-03-25
-Texas,TX,48,Wichita County,48485,,2020-03-28
-Texas,TX,48,Willacy County,48489,,2020-03-27
-Texas,TX,48,Williamson County,48491,,2020-03-25
+Tennessee,TN,47,NA,NA,,04/01/2020
+Tennessee,TN,47,,,Franklin,03/25/2020
+Tennessee,TN,47,,,Memphis,03/25/2020
+Tennessee,TN,47,Davidson County,47037,,03/23/2020
+Tennessee,TN,47,Knox County,47093,,03/24/2020
+Tennessee,TN,47,Shelby County,47157,,03/24/2020
+Texas,TX,48,NA,NA,,04/02/2020
+Texas,TX,48,,,Austin,03/25/2020
+Texas,TX,48,,,Amarillo,03/31/2020
+Texas,TX,48,,,Lubbock,03/30/2020
+Texas,TX,48,Bell County,48027,,03/24/2020
+Texas,TX,48,Bexar County,48029,,03/25/2020
+Texas,TX,48,Brazoria County,48039,,03/27/2020
+Texas,TX,48,Cameron County,48061,,03/25/2020
+Texas,TX,48,Chambers County,48071,,03/25/2020
+Texas,TX,48,Collin County,48085,,03/24/2020
+Texas,TX,48,Dallas County,48113,,03/24/2020
+Texas,TX,48,Denton County,48121,,03/26/2020
+Texas,TX,48,El Paso County,48141,,03/25/2020
+Texas,TX,48,Ellis County,48139,,03/26/2020
+Texas,TX,48,Fort Bend County,48157,,03/25/2020
+Texas,TX,48,Galveston County,48167,,03/25/2020
+Texas,TX,48,Gregg County,48183,,03/27/2020
+Texas,TX,48,Harris County,48201,,03/25/2020
+Texas,TX,48,Harrison County,48203,,04/01/2020
+Texas,TX,48,Hays County,48209,,03/27/2020
+Texas,TX,48,Hidalgo County,48215,,03/27/2020
+Texas,TX,48,Hunt County,48231,,03/25/2020
+Texas,TX,48,Kaufman County,48257,,03/26/2020
+Texas,TX,48,Liberty County,48291,,03/25/2020
+Texas,TX,48,McLennan County,48309,,03/24/2020
+Texas,TX,48,Nacogdoches,48347,,03/30/2020
+Texas,TX,48,Nueces County,48355,,03/27/2020
+Texas,TX,48,Polk County,48373,,03/28/2020
+Texas,TX,48,Robertson County,48395,,03/26/2020
+Texas,TX,48,Rockwall County,48397,,03/25/2020
+Texas,TX,48,San Jacinto County,48407,,03/25/2020
+Texas,TX,48,Scurry County,48415,,03/28/2020
+Texas,TX,48,Smith County,48423,,03/28/2020
+Texas,TX,48,Starr County,48427,,03/25/2020
+Texas,TX,48,Tarrant County,48439,,03/25/2020
+Texas,TX,48,Travis County,48453,,03/25/2020
+Texas,TX,48,Wichita County,48485,,03/28/2020
+Texas,TX,48,Willacy County,48489,,03/27/2020
+Texas,TX,48,Williamson County,48491,,03/25/2020
 Utah,UT,49,NA,NA,,
-Utah,UT,49,Davis County,49011,,2020-04-02
-Utah,UT,49,Salt Lake County,49035,,2020-03-30
-Utah,UT,49,Summit County,49043,,2020-03-27
-Vermont,VT,50,NA,NA,,2020-03-26
-Virginia,VA,51,NA,NA,,2020-03-30
-Washington,WA,53,NA,NA,,2020-03-23
-West Virginia,WV,54,NA,NA,,2020-03-25
-Wisconsin,WI,55,NA,NA,,2020-03-25
+Utah,UT,49,Davis County,49011,,04/02/2020
+Utah,UT,49,Salt Lake County,49035,,03/30/2020
+Utah,UT,49,Summit County,49043,,03/27/2020
+Vermont,VT,50,NA,NA,,03/26/2020
+Virginia,VA,51,NA,NA,,03/30/2020
+Washington,WA,53,NA,NA,,03/23/2020
+West Virginia,WV,54,NA,NA,,03/25/2020
+Wisconsin,WI,55,NA,NA,,03/25/2020
 Wyoming,WY,56,NA,NA,,
-Wyoming,WY,56,,,Jackson,2020-03-28
+Wyoming,WY,56,,,Jackson,03/28/2020
