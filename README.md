@@ -24,13 +24,13 @@ The NYT listed orders from states, counties, and cities. However, this compiled 
 
 ## Codebook
 
--state:      State Name. Available for all rows
--postalcode: State Postal Code
--statefips:  State FIPS Code
--county:     Name of county
--countyfips: County FIPS CODE, lists as "NA" string for state rows. Is missing for cities. This is because cities tend to overlap into many counties, so it is left up to the user if they want to classify this data or not.
--city:       City Name. This field should be missing for counties and states    
--effectivedate: "Effective" date of the stay-at-home order, in dd/mm/yy format
+- state:      State Name. Available for all rows
+- postalcode: State Postal Code
+- statefips:  State FIPS Code
+- county:     Name of county
+- countyfips: County FIPS CODE, lists as "NA" string for state rows. Is missing for cities. This is because cities tend to overlap into many counties, so it is left up to the user if they want to classify this data or not.
+- city:       City Name. This field should be missing for counties and states    
+- effectivedate: "Effective" date of the stay-at-home order, in dd/mm/yy format
 
 
 
