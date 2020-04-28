@@ -14,6 +14,8 @@ The goal of this dataset is to be available to use for inference at a finer leve
 This data was aggregated from the New York Times's page on stay-at-home orders:
 https://www.nytimes.com/interactive/2020/us/coronavirus-stay-at-home-order.html
 
+(Note: As of 4/20/20 the nytimes page has an announcement it will no longer be updated. A new page is covering re-openings, however given that re-openings are occuring sector by sector in many states it is more difficult to track. This dataset will only include stay-at-home implementations and at this time will not be updated to track re-openings.)
+
 The NYT only lists the latest most comprehensive order and updates the page often, therefore the wayback machine was used to gather older county-level orders. The last screenshot available on each day in the archive was used.
 
 A pdf record of each order is in the Documentation folder. When an order could not be easily located, a news-release or other semi-official document is saved. The vast majority of orders have official documents.
